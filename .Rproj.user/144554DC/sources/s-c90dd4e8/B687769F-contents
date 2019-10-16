@@ -1,0 +1,6 @@
+# Goodbye function mirroring that of hello
+
+goodbye <- function(){
+  print("Goodbye, world!")
+}
+

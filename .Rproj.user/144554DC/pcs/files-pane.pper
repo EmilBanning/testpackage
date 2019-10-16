@@ -1,0 +1,9 @@
+{
+    "path" : "~/projects/testpackage/R",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 2
+        }
+    ]
+}
